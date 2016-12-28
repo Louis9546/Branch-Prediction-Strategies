@@ -63,10 +63,6 @@ gshare: {history FIFO bit-width}
 hodge: {history FIFO bit-width} {associativity} benchmark: benchmarks in {DIR}/tests-alpha/bin/
 
 
-Hodgepodge Predictor Structure
-
-
-
 
 
 
