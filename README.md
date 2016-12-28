@@ -1,4 +1,6 @@
-# Branch-Prediction-Strategies
-Computer Architecture: Evaluating Branch Prediction Strategies
+# SimpleSim
+Computer Architecture Project -- Rutgers Graduate
 
-Our group: Weiqing, Ze, kangning
+Evaluating Branch Prediction Strategies
+
+Our group members: Weiqing, Ze, kangning
